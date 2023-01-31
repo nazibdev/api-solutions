@@ -1,7 +1,7 @@
-package com.github.nazib.apis;
+package io.github.nazib.apis;
 
 
-import com.github.nazib.apis.arithmetic.Operation;
+import io.github.nazib.apis.arithmetic.Operation;
 import org.junit.Test;
 
 import java.math.BigDecimal;
